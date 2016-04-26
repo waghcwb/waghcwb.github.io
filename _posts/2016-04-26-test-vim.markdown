@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Hello World test"
+date:   2016-04-26 14:14:36 -0300
+categories: tests
+---
 # Test Post
 
 ## Hello, World!
